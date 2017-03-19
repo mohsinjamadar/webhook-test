@@ -1,1 +1,1 @@
-Example js file
+Example js file.
